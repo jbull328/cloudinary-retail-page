@@ -26,7 +26,7 @@ class App extends Component {
             shirts: [
                 defaultShirt,
                 {id: 2, main: 'laying-shirt', underlay: '', overlay: ''},
-                {id: 3, main: 'hanging_t-shirt', underlay: '', overlay: 'hanger'}
+                {id: 3, main: 'hanging_t-shirt', underlay: '', overlay: ''}
             ],
             text: ' ',
             selectedShirt: defaultShirt,
